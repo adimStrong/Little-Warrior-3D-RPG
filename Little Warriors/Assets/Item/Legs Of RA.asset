@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c63ea3e3ab1ba403f8f820dbfda8e5df, type: 3}
+  m_Name: Legs Of RA
+  m_EditorClassIdentifier: 
+  name: Legs of RA
+  icon: {fileID: 21300000, guid: ca49c713c92e8427ca7f84f65a533982, type: 3}
+  isDefaultItem: 0
+  equipmentSlot: 2
+  armorModifier: 2
+  damageModifier: 1
+  equipedItem: {fileID: 0}
