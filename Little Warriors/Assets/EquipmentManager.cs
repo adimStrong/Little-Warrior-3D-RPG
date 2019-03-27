@@ -87,13 +87,7 @@ public class EquipmentManager : MonoBehaviour
         {
             Unequip(i);
         }
-        EquipAllDefault();
+
     }
-    void EquipAllDefault()
-    {
-        foreach (Equipment e in defaultWear)
-        {
-            Equip(e);
-        }
-    }
+
 }
